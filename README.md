@@ -4,7 +4,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/transientmakers?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-deepak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak6351/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-deepak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak6351/)](https://www.linkedin.com/in/deepak6351/)
 ![GitHub followers](https://img.shields.io/github/followers/deora-deepak?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=deora-deepak)
 
