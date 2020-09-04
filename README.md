@@ -3,11 +3,10 @@
 <p><em>Software Engineer at <a href="https://www.zomato.com/">Zomato</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/transientmakers?label=Follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/transientmakers?label=Follow)](https://twitter.com/TransientMakers)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-deepak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak6351/)](https://www.linkedin.com/in/deepak6351/)
-![GitHub followers](https://img.shields.io/github/followers/deora-deepak?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=deora-deepak)
-
+[![GitHub followers](https://img.shields.io/github/followers/deora-deepak?label=Follow&style=social)](https://github.com/deora-deepak)
+[![](https://visitor-badge.glitch.me/badge?page_id=deora-deepak)](https://github.com/deora-deepak)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
